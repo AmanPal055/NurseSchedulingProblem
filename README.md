@@ -170,7 +170,7 @@ python3 visualizer.py sample_test_cases/test1.csv out_b.json 9
 
 ---
 
-## 👥 Authors
+## Author
 * **Aman**
 
 ---
